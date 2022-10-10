@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "ff75d8c19d257dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "818d69975975c83a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "CheatSheets/Console.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8d6efcb11ac4ac35",
+    "type": "split",
+    "children": [
+      {
+        "id": "358ee3e90d4f29c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a20a9486d86ff8a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "186c0dd87bf0d10b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3345c149284f1c36",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 269.5
+  },
+  "right": {
+    "id": "c75526dc66a843e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "bcd35377db13e6d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21b5dd2413c4c7a8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CheatSheets/Console.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b890b5f09bc955ff",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CheatSheets/Console.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11fc68694efba120",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a92cc0032d770933",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CheatSheets/Console.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "818d69975975c83a",
+  "lastOpenFiles": [
+    "Linus/Laptop-Server.md",
+    "CheatSheets/Console.md"
+  ]
+}
