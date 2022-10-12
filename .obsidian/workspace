@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linus/Laptop.md",
+            "file": "Linus/Multiple Terminals.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 240.5
   },
   "right": {
     "id": "c75526dc66a843e0",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linus/Laptop.md",
+                "file": "Linus/Multiple Terminals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linus/Laptop.md",
+                "file": "Linus/Multiple Terminals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linus/Laptop.md"
+                "file": "Linus/Multiple Terminals.md"
               }
             }
           }
@@ -130,9 +130,10 @@
   },
   "active": "3a20a9486d86ff8a",
   "lastOpenFiles": [
-    "Linus/Tmux - Multiple Terminals.md",
+    "Linus/Screen.md",
+    "Linus/Multiple Terminals.md",
+    "Linus/Laptop.md",
     "assests/images/tmux-resized-multi.png.md",
-    "assets/images/tmux-resized-multi.png",
-    "Linus/Laptop.md"
+    "assets/images/tmux-resized-multi.png"
   ]
 }
