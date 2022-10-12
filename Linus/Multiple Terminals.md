@@ -37,6 +37,6 @@ Detattch screen: `CTRL + A + D`
 
 
 ### Resources: 
-1. [Tmux cheatsheet](https://tmuxcheatsheet.com/)[^1]
-2. 
+1. [Tmux cheatsheet](https://tmuxcheatsheet.com/)
+2. [Screen Cheat sheet](https://opensource.com/sites/default/files/gated-content/osdc_cheatsheet-screen-2021.4.14.pdf)
 

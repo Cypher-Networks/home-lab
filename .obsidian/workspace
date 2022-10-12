@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Linus/Multiple Terminals.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linus/Multiple Terminals.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linus/Multiple Terminals.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linus/Multiple Terminals.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,8 +130,10 @@
   },
   "active": "de57ead9d2af0825",
   "lastOpenFiles": [
-    "Linus/Screen.md",
+    "Linus/Proxmox.md",
     "Linus/Multiple Terminals.md",
+    "README.md",
+    "Linus/Screen.md",
     "Linus/Laptop.md",
     "assests/images/tmux-resized-multi.png.md",
     "assets/images/tmux-resized-multi.png"
