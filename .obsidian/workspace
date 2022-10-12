@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "818d69975975c83a",
+        "id": "de57ead9d2af0825",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "CheatSheets/Console.md",
+            "file": "Linus/Laptop.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CheatSheets/Console.md",
+                "file": "Linus/Laptop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CheatSheets/Console.md",
+                "file": "Linus/Laptop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CheatSheets/Console.md"
+                "file": "Linus/Laptop.md"
               }
             }
           }
@@ -128,9 +128,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "818d69975975c83a",
+  "active": "3a20a9486d86ff8a",
   "lastOpenFiles": [
-    "Linus/Laptop-Server.md",
-    "CheatSheets/Console.md"
+    "Linus/Tmux - Multiple Terminals.md",
+    "assests/images/tmux-resized-multi.png.md",
+    "assets/images/tmux-resized-multi.png",
+    "Linus/Laptop.md"
   ]
 }
