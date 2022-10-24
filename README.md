@@ -5,14 +5,17 @@ This GitHub will help as a form of a cheat sheet when configuring and maintainin
 ## Cloud providers: 
 ### [OVH](https://www.ovhcloud.com/)
 Fairly cheap when wanting to host small VPS. When they have deals on for there barebones systems which are some good deals to jump on. 
+
 Locations all around the world
 
 ### [Oracle Cloud](https://www.oracle.com/)
 Oracle has a free plan where you can have a 4 Core Ampere, 24GB server. [# Amazing Free VPS (4CPU 24GB Ram) Oracle Quick Setup Tutorial](https://www.youtube.com/watch?v=g7sP33QtuxM)
+
 Locations all around the world
  
 ### [Digitial Ocean](https://www.digitalocean.com/)
 Digital Ocean doesn't overly care what is hosted on there systems. 
+
 Locations all around the world
 
 ### [Hetzner](https://www.hetzner.com)

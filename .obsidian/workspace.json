@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 200
   },
   "right": {
     "id": "c75526dc66a843e0",
@@ -139,10 +139,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "de57ead9d2af0825",
+  "active": "3a20a9486d86ff8a",
   "lastOpenFiles": [
-    "Linus/Proxmox.md",
     "README.md",
+    "Linus/Proxmox.md",
     "Linus/Multiple Terminals.md",
     "Linus/Laptop.md",
     "Linus/Screen.md",
